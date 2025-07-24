@@ -97,7 +97,7 @@ I'm a **B.Tech CSE (Cybersecurity) student** and an enthusiastic **Digital Foren
 ### 📊 My Contribution Activity
 
 <div align="center">
-  <!-- GitHub Activity Graph (if configured for your repo) -->
+  <!-- GitHub Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sreya-s19&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
@@ -106,8 +106,8 @@ I'm a **B.Tech CSE (Cybersecurity) student** and an enthusiastic **Digital Foren
 ### 🐍 My GitHub Contribution Snake!
 
 <div align="center">
-  <!-- This image will only show after you set up the GitHub Action for the snake animation and it runs successfully. -->
-  <!-- Check https://github.com/Platane/snk for setup instructions. -->
+  <!-- This image will only appear after you set up the GitHub Action for the snake animation and it runs successfully. -->
+  <!-- Make sure your GitHub Action saves the snake.svg to the 'output' branch in your sreya-s19/sreya-s19 repository. -->
   <img src="https://raw.githubusercontent.com/sreya-s19/sreya-s19/output/snake.svg" alt="github-snake" />
 </div>
 
@@ -142,7 +142,7 @@ I'm a **B.Tech CSE (Cybersecurity) student** and an enthusiastic **Digital Foren
   <a href="https://wa.me/918921716475" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
-  <a href="https://cyberdiaries.netlify.app/" target="_blank"> <!-- Added your portfolio link here -->
+  <a href="https://cyberdiaries.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-2C2C2C?style=flat&logo=netlify&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
