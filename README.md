@@ -47,51 +47,14 @@ I'm a **B.Tech CSE (Cybersecurity) student** and an enthusiastic **Digital Foren
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <!-- Additional icons based on your resume not explicitly in the image: -->
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwind logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
----
-
-### 🚀 Key Projects & Platforms
-
-Here are some of the projects where I've applied my cybersecurity and development skills:
-
--   **[S3CURE](https://github.com/sreya-s19/S3CURE_REPO_LINK_HERE)** (Gamified Cybercrime Platform)
-    -   An interactive mission-based platform for learning digital forensics and cybersecurity.
-    -   Features: Terminal-based tasks, image analysis, flag submission system, user badges.
-
--   **[CyberMap- India](https://github.com/sreya-s19/CYBERMAP_REPO_LINK_HERE)**
-    -   A visual tool mapping cybercrimes across India using a 3D globe and interactive SVG maps.
-    -   Built with React, Three.js, and Tailwind, using mock crime data for simulation.
-
--   **[Project Synapse](https://github.com/sreya-s19/SYNAPSE_REPO_LINK_HERE)**
-    -   Developed a Telegram fraud message detection system using Python and NLP techniques to analyze scam content, enhancing digital forensics capabilities.
-
--   **[Threat Intelligence Dashboard](https://github.com/sreya-s19/THREAT_DASHBOARD_REPO_LINK_HERE)**
-    -   Designed and implemented an interactive, real-time cyber threat intelligence dashboard using Python and Streamlit to visualize, track, and prioritize emerging cyber threats.
-
--   **[CryptoCrack](https://github.com/sreya-s19/CRYPTOCRACK_REPO_LINK_HERE)**
-    -   A gamified cryptography challenge platform featuring CTF-style puzzles and a 3D interface.
 
 ---
 
@@ -113,7 +76,7 @@ Here are some of the projects where I've applied my cybersecurity and developmen
 
 ### 💼 Internship Experience
 
--   **SEO Intern (June 2025 - Expected):** Worked on digital visibility and web performance optimization.
+-   **SEO Intern (June 2025 - Ongoing):** Worked on digital visibility and web performance optimization.
 
 ---
 
