@@ -108,7 +108,7 @@ I'm a **B.Tech CSE (Cybersecurity) student** and an enthusiastic **Digital Foren
 <div align="center">
   <!-- This image will only appear after you set up the GitHub Action for the snake animation and it runs successfully. -->
   <!-- Make sure your GitHub Action saves the snake.svg to the 'output' branch in your sreya-s19/sreya-s19 repository. -->
-  <img src="https://raw.githubusercontent.com/sreya-s19/sreya-s19/output/snake.svg" alt="github-snake" />
+  <img src="https://raw.githubusercontent.com/sreya-s19/sreya-s19/main/github-snake.svg" alt="github-snake" />
 </div>
 
 ---
