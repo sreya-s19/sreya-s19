@@ -71,7 +71,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sreya-s19.sreya-s19&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SreyaShyash.SreyaShyash"  />
 </div>
 
 ###
