@@ -1,21 +1,27 @@
 name: Generate Snake Contribution
 
 on:
-  schedule:
-    - cron: "0 0 * * *" # Run once a day at midnight (UTC)
-  workflow_dispatch: # Allows manual trigger
+  # ... (your existing triggers)
 
 permissions:
-  contents: write # This grants permission to write files to the repository
+  contents: write # This is crucial!
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: Platane/snk@v3
+      - uses: actions/checkout@v3 # Or v4
+      - uses: platane/snk@v3
         with:
-          github_user_name: sreya-s19 # <--- **THIS IS THE CRITICAL CHANGE**
+          github_user_name: sreya-s19 # Replace with your GitHub username
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8f7eef,#80ffb5,#ebf8ff&color_calendar=orange,darkblue,darkgreen,darkred
+          # Ensure the output path is correct and relative to the repo root
+      - name: Push to GitHub
+        uses: git-auto-commit-action@v5 # Or v4
+        with:
+          commit_message: "Generate Snake Contribution"
+          branch: main # Or master, depending on your default branch
+          # Ensure this action has write permissions too if set at job level
