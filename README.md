@@ -1,40 +1,25 @@
-<p align="left">Hi there, I'm Sreya Shyash! 👋<br><br>I'm a B.Tech CSE (Cybersecurity) student and an enthusiastic Digital Forensics & Cybersecurity professional from Kerala, India. My passion lies in understanding and securing digital landscapes, with a keen interest in digital forensics, threat intelligence, and cybercrime simulations. I love applying my technical and investigative skills to tackle real-world security challenges and contribute to a safer digital environment.<br><br><br>What I'm currently focused on<br><br>Deepening my expertise in Digital Forensics:  Log analysis, EXIF data extraction, OSINT tools, email tracing.<br>Advancing Cybersecurity skills: Threat intelligence, ethical hacking, cryptography, and Linux security.<br>Building secure and robust applications:  Focusing on secure coding practices and web security.<br><br><br>🏆 Certifications & Career Highlights<br><br>Certifications:<br><br>    -   Google Cybersecurity Certificate<br>    -   IBM Cybersecurity Analyst Fundamentals<br>    -   Cybrary: Digital Forensics & Cryptography<br>    -   EC-Council: Introduction to Dark Web, Anonymity & Cryptocurrency<br>    -   Infosec: Intro to Forensics<br>    -   TCS ION & Mastercard Job Simulations – Security & Compliance<br><br>Highlights:<br><br>    -   Completed 20+ missions on my own cybersecurity platform (S3CURE), simulating real crime investigations.<br>    -   Designed tools like Threat Analyzer Dashboard and Vector Threat for SOC simulation.</p>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/sreya-shyjash/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="@srreyya__" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="srreyya__" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://medium.com/@sreyashyjash" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
-  </a>
-  <a href="sreyashyjash@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
-  </a>
-  <a href="+918921716475" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-</div>
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sreya-s19&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sreya-s19&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=sreya-s19&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sreya-s19&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://media.giphy.com/media/RbDKzvYryuKBq/giphy.gif" width="100px" alt="Hello GIF">
 </div>
 
-###
+# Hi there, I'm Sreya Shyash! 👋
+
+I'm a **B.Tech CSE (Cybersecurity) student** and an enthusiastic **Digital Forensics & Cybersecurity professional** from Kerala, India. My passion lies in understanding and securing digital landscapes, with a keen interest in **digital forensics, threat intelligence, and cybercrime simulations**. I love applying my technical and investigative skills to tackle real-world security challenges and contribute to a safer digital environment.
+
+---
+
+### 🌱 What I'm currently focused on
+
+-   **Deepening my expertise in Digital Forensics:** Log analysis, EXIF data extraction, OSINT tools, email tracing.
+-   **Advancing Cybersecurity skills:** Threat intelligence, ethical hacking, cryptography, and Linux security.
+-   **Building secure and robust applications:** Focusing on secure coding practices and web security.
+
+---
+
+### 💻 My Technical Toolkit
 
 <div align="left">
+  <!-- Devicons provide a wide range of popular tech icons -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -62,16 +47,143 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <!-- Additional icons based on your resume not explicitly in the image: -->
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwind logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
-###
+---
 
-<img src="https://raw.githubusercontent.com/sreya-s19/sreya-s19/output/snake.svg" alt="Snake animation" />
+### 🚀 Key Projects & Platforms
 
-###
+Here are some of the projects where I've applied my cybersecurity and development skills:
+
+-   **[S3CURE](https://github.com/sreya-s19/S3CURE_REPO_LINK_HERE)** (Gamified Cybercrime Platform)
+    -   An interactive mission-based platform for learning digital forensics and cybersecurity.
+    -   Features: Terminal-based tasks, image analysis, flag submission system, user badges.
+
+-   **[CyberMap- India](https://github.com/sreya-s19/CYBERMAP_REPO_LINK_HERE)**
+    -   A visual tool mapping cybercrimes across India using a 3D globe and interactive SVG maps.
+    -   Built with React, Three.js, and Tailwind, using mock crime data for simulation.
+
+-   **[Project Synapse](https://github.com/sreya-s19/SYNAPSE_REPO_LINK_HERE)**
+    -   Developed a Telegram fraud message detection system using Python and NLP techniques to analyze scam content, enhancing digital forensics capabilities.
+
+-   **[Threat Intelligence Dashboard](https://github.com/sreya-s19/THREAT_DASHBOARD_REPO_LINK_HERE)**
+    -   Designed and implemented an interactive, real-time cyber threat intelligence dashboard using Python and Streamlit to visualize, track, and prioritize emerging cyber threats.
+
+-   **[CryptoCrack](https://github.com/sreya-s19/CRYPTOCRACK_REPO_LINK_HERE)**
+    -   A gamified cryptography challenge platform featuring CTF-style puzzles and a 3D interface.
+
+---
+
+### 🏆 Certifications & Career Highlights
+
+-   **Certifications:**
+    -   Google Cybersecurity Certificate
+    -   IBM Cybersecurity Analyst Fundamentals
+    -   Cybrary: Digital Forensics & Cryptography
+    -   EC-Council: Introduction to Dark Web, Anonymity & Cryptocurrency
+    -   Infosec: Intro to Forensics
+    -   TCS ION & Mastercard Job Simulations – Security & Compliance
+
+-   **Highlights:**
+    -   Completed 20+ missions on my own cybersecurity platform (S3CURE), simulating real crime investigations.
+    -   Designed tools like Threat Analyzer Dashboard and Vector Threat for SOC simulation.
+
+---
+
+### 💼 Internship Experience
+
+-   **SEO Intern (June 2025 - Expected):** Worked on digital visibility and web performance optimization.
+
+---
+
+### 📈 My GitHub Journey & Stats
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SreyaShyash.SreyaShyash"  />
+  <!-- GitHub Trophy Cards -->
+  <img src="https://github-profile-trophy.vercel.app/?username=sreya-s19&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="Sreya's GitHub Trophies" />
+  <br/>
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=sreya-s19&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <!-- GitHub Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sreya-s19&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+---
+
+### 📊 My Contribution Activity
+
+<div align="center">
+  <!-- GitHub Activity Graph (if configured for your repo) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sreya-s19&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+---
+
+### 🐍 My GitHub Contribution Snake!
+
+<div align="center">
+  <!-- This image will only show after you set up the GitHub Action for the snake animation and it runs successfully. -->
+  <!-- Check https://github.com/Platane/snk for setup instructions. -->
+  <img src="https://raw.githubusercontent.com/sreya-s19/sreya-s19/output/snake.svg" alt="github-snake" />
+</div>
+
+---
+
+### 👋 Visitors
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SreyaShyash.SreyaShyash" alt="Visitors"/>
+</div>
+
+---
+
+### 📫 Let's Connect!
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/sreya-shyjash/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/srreyya__" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://instagram.com/srreyya__" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://medium.com/@sreyashyjash" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+  </a>
+  <a href="mailto:sreyashyjash@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+  </a>
+  <a href="https://wa.me/918921716475" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+  <a href="https://cyberdiaries.netlify.app/" target="_blank"> <!-- Added your portfolio link here -->
+    <img src="https://img.shields.io/badge/Portfolio-2C2C2C?style=flat&logo=netlify&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+</div>
+
+---
+
+⭐️ Thanks for visiting my profile!
