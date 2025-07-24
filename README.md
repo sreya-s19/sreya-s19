@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/RbDKzvYryuKBq/giphy.gif" width="100px" alt="Hello GIF">
+  <img src="https://media.tenor.com/images/072fd69c0d75c87b92ff150ad2f960f2/tenor.gif" width="100px" alt="Hello GIF">
 </div>
 
 # Hi there, I'm Sreya Shyash! 👋
